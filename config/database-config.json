@@ -15,8 +15,13 @@
     "location": "/backups/database"
   },
   "replication": {
-    "enabled": true,
-    "replicas": 2,
-    "sync_mode": "synchronous"
+    "enabled": false,
+    "replicas": 0,
+    "sync_mode": "asynchronous"
+  },
+  "development": {
+    "seed_data": true,
+    "reset_on_restart": true,
+    "debug_queries": true
   }
 }
