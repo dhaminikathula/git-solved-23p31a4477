@@ -1,3 +1,4 @@
+
 # DevOps Simulator
 
 
@@ -124,3 +125,7 @@ See `/docs` folder and `/docs/ai-integration.md`
 MIT License
 
 "## FAQ" 
+
+# git-mastery-challenge-template
+A hands-on task to learn and practice Git and GitHub basics — including commits, branches, pull requests, and collaboration.
+
