@@ -1,0 +1,22 @@
+*   bf45b74 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'main' of https://github.com/dhaminikathula/git-solved-23p31a4477
+|\  
+| * 39c7691 Add repository link to GIT_JOURNEY.md
+| * 920d672 Update conflict resolution strategy in GIT_JOURNEY.md
+| * 4b9e4be Add GIT_JOURNEY.md for Git mastery documentation
+* | 8e4310e docs: Add changelog
+* | 0e0bd81 finish
+| | * 272583c (origin/features/another-feature, features/another-feature) add test feature
+| |/  
+| * f2c9743 docs: add FAQ section
+|/  
+*   2dfb918 (tag: v1.0.0, origin/features/new-feature, features/new-feature) merge: Resolve all conflicts btw main and conflict-simulator branches
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   6152942 Resolved all merge conflicts and enabled development mode
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
