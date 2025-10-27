@@ -1,5 +1,8 @@
 /**
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6152942 (Resolved all merge conflicts and enabled development mode)
  * System Monitoring Script - Production
  * Monitors application health and performance
  */
@@ -90,6 +93,7 @@ function checkSystemHealth() {
 // Start monitoring
 console.log(`Monitoring every ${monitorConfig.interval}ms`);
 
+<<<<<<< HEAD
  * AI-Enhanced System Monitoring Script
  * Version: 3.0.0-experimental
  * Uses machine learning for predictive monitoring
@@ -194,6 +198,8 @@ console.log(`Cloud providers: ${monitorConfig.cloudProviders.join(', ')}`);
 console.log(`AI predictions: ${monitorConfig.predictiveWindow}s ahead\n`);
 
 
+=======
+>>>>>>> 6152942 (Resolved all merge conflicts and enabled development mode)
 setInterval(checkSystemHealth, monitorConfig.interval);
 
 // Run first check immediately
@@ -217,6 +223,7 @@ if (monitorConfig.debugMode) {
 }
 
 
+
 // Background AI training
 if (monitorConfig.aiEnabled) {
   setInterval(() => {
@@ -225,4 +232,5 @@ if (monitorConfig.aiEnabled) {
     console.log('   Model updated successfully');
   }, 120000); // Every 2 minutes
 }
+
 
