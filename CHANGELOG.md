@@ -1,0 +1,8 @@
+- 0e0bd81: finish (dhaminikathula, 80 minutes ago)
+- 2dfb918: merge: Resolve all conflicts btw main and conflict-simulator branches (dhaminikathula, 2 days ago)
+- 6152942: Resolved all merge conflicts and enabled development mode (dhaminikathula, 2 days ago)
+- d3dd9b2: updating conflict-simulator (Hanu Gupta, 5 days ago)
+- 02011a5: updating dev (Hanu Gupta, 5 days ago)
+- 0312c6f: updating main (Hanu Gupta, 5 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 5 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 5 days ago)
