@@ -85,7 +85,7 @@ merge conflicts across multiple branches using proper Git workflows.
 #### Conflict 1: config/app-config.yaml
 - **Issue**: Production used port 8080, development used 3000
 - **Resolution**: Created unified config with environment-based settings
-- **Strategy**: Keep production as default, add dev as optional
+- **Strategy**: Keep production as default, add conflict-simulator as optional
 - **Difficulty**: Medium
 - **Time**: 15 minutes
 
